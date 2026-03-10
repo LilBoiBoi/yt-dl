@@ -14,12 +14,10 @@ open powershell and run:
 
     winget install ffmpeg
 
-thats it. restart your pc after and youre good to go.
+thats itc restart your pc after and youre good to go !!
 
 > dont have winget? its built into windows 10 and 11. if for some reason you dont have it,
 > grab it from https://aka.ms/getwinget
-
-thats it, everything else is already bundled in the app !!
 
 ---
 
