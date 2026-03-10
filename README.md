@@ -8,3 +8,6 @@ idk a simple youtube downloader (wav, mp4, mp3)
 its gonna spit out a wav, mp3 and mp4 folder where your stuff will be saved in said folder !!
 
 enjoy :>
+
+# future plans
+any media should be downloadable and not just youtube
