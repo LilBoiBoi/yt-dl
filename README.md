@@ -8,19 +8,16 @@ made with <3 by dani / @lilboiboi :3
 
 ## what you need
 
-just one thing before running the app:
+just one thing before running the app — **ffmpeg**.
 
-**ffmpeg** — the app needs this to convert and merge audio/video files.
+open powershell and run:
 
-1. go to https://www.gyan.dev/ffmpeg/builds/
-2. download the **ffmpeg-release-essentials** zip
-3. extract it somewhere on your pc (like `C:\ffmpeg`)
-4. add the `bin` folder inside it to your system PATH
-   - search "environment variables" in the start menu
-   - click "environment variables"
-   - find "Path" under system variables, click edit
-   - add a new entry pointing to your ffmpeg bin folder (like `C:\ffmpeg\bin`)
-   - hit ok and restart your pc
+    winget install ffmpeg
+
+thats it. restart your pc after and youre good to go.
+
+> dont have winget? its built into windows 10 and 11. if for some reason you dont have it,
+> grab it from https://aka.ms/getwinget
 
 thats it, everything else is already bundled in the app !!
 
