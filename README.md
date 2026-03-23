@@ -23,23 +23,24 @@ thats it, restart your pc after and youre good to go !!
 
 ## how to use
 
-1. download the latest installer from the releases page
-2. run it and follow the setup
+1. download the latest zip from the releases page
+2. extract and run yt-dl.exe
 3. on first launch, pick a folder where you want your downloads to go
-4. paste a youtube link, pick your format, hit download
+4. paste a youtube link (or any other media), pick your format and quality, hit download
 
-your files will be sorted into subfolders automatically — mp3, mp4, or wav depending on what you picked.
+your files will be sorted into subfolders automatically — mp3, mp4, wav, etc... depending on what you picked !
 
 ---
 
 ## settings
 
-click the gear icon in the top left to open settings. from there you can:
+click the gear icon in the bottom left to open settings. from there you can:
 
 - change your downloads folder
-- move all existing files to a new folder
+- change themes (dark/light)
 - change the background and accent colors
 - view debug logs if something goes wrong
+- debug slop buttons
 - find a link to this repo
 
 ---
