@@ -1,0 +1,41 @@
+{
+  "name": "yt-dl",
+  "productName": "yt-dl",
+  "version": "1.0.0",
+  "description": "Local media downloader + music project manager",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron-forge start",
+    "make":  "electron-forge make"
+  },
+  "devDependencies": {
+    "@electron-forge/cli":           "^7.4.0",
+    "@electron-forge/maker-squirrel":"^7.4.0",
+    "@electron-forge/maker-zip":     "^7.4.0",
+    "electron":                      "^31.0.0"
+  },
+  "dependencies": {},
+  "config": {
+    "forge": {
+      "packagerConfig": {
+        "name":           "yt-dl",
+        "executableName": "yt-dl",
+        "extraResource":  ["dist/server.exe"]
+      },
+      "makers": [
+        {
+          "name": "@electron-forge/maker-squirrel",
+          "config": {
+            "name":        "yt_dl",
+            "authors":     "dani",
+            "description": "Local media downloader + music project manager"
+          }
+        },
+        {
+          "name":      "@electron-forge/maker-zip",
+          "platforms": ["darwin", "linux"]
+        }
+      ]
+    }
+  }
+}
