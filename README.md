@@ -48,3 +48,6 @@ click the gear icon in the bottom left to open settings. from there you can:
 ## license
 
 MIT — do whatever you want with it
+
+all comments have been revised with claude ai !!!!!
+so that you can actually understand what tf it means...
