@@ -8,7 +8,7 @@ made with <3 by dani / @lilboiboi :3
 
 ## what you need
 
-just one thing before running the app — **ffmpeg**.
+one thing before running the app is **ffmpeg**
 
 open powershell and run:
 
