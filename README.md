@@ -1,6 +1,6 @@
-# yt-dl
+# vault
 
-a simple youtube downloader desktop app. download videos and audio in mp4, mp3, or wav straight to a folder on your pc !!!
+a simple media downloader desktop app. download videos and audio in mp4, mp3, or wav straight to a folder on your pc !!!
 
 made with <3 by dani / @lilboiboi :3
 
